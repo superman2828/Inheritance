@@ -110,5 +110,4 @@ public class Person
                 "\"YOB\":" + YOB +
                 "}";
     }
-
 }
