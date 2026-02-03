@@ -1,6 +1,6 @@
 public class Worker extends Person {
 
-    private double hourlyPayRate;
+    double hourlyPayRate;
 
     @Override
     public String toString() {
